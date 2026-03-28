@@ -1,4 +1,4 @@
-# ERES Metadata Archive
+[# ERES Metadata Archive
 
 This repository, **ERES-Metadata-Archive**, aggregates key documents, presentations, spreadsheets, and reports authored or curated by Joseph A. Sprute and the ERES Institute for New Age Cybernetics. It serves as a centralized archive of foundational materials underpinning the vision, frameworks, and research outputs of ERES.
 
@@ -241,3 +241,4 @@ Below is an illustrative list of key files in this repository, with brief descri
 
 Sources
 
+](https://github.com/josephasprute)
